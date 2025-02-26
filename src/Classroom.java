@@ -1,4 +1,3 @@
-//author: WANG ZINING
 //version : jdk-22
 
 public class Classroom {
