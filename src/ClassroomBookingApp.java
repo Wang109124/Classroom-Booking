@@ -1,4 +1,3 @@
-//author: CHENG KONGLINGYI & WANG ZINING
 //version : jdk-22
 
 import java.text.ParseException;
