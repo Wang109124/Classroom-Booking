@@ -1,4 +1,3 @@
-//author: WU JIACHEN
 //version : jdk-22
 
 import java.text.SimpleDateFormat;
