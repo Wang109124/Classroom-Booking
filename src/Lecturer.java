@@ -1,4 +1,3 @@
-//author: LEI FANZHUO
 //version : jdk-22
 
 public class Lecturer {
